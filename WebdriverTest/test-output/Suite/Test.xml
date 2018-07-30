@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="USBLRASHIEV3" name="example.NewTest" tests="1" failures="0" timestamp="30 Jul 2018 12:11:58 GMT" time="0.033" errors="0">
+  <testcase name="testEasy" time="0.006" classname="example.NewTest"/>
+</testsuite>
